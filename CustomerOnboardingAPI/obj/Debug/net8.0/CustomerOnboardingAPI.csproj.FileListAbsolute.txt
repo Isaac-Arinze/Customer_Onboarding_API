@@ -1,0 +1,8 @@
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.csproj.AssemblyReference.cache
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.AssemblyInfoInputs.cache
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.AssemblyInfo.cs
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.csproj.CoreCompileInputs.cache
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/decagon/Desktop/CustomerOnboardingAPI/CustomerOnboardingAPI/obj/Debug/net8.0/CustomerOnboardingAPI.sourcelink.json

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\appcontext\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\appcontext\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\migrations\\20240708145403_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\migrations\\20240708145403_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\models\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\models\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|c:\\users\\laptop\\source\\repos\\customeronboardingapi\\customeronboardingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75D5BFD7-78E2-49FA-8FAA-643BA81B7E3E}|CustomerOnboardingAPI\\CustomerOnboardingAPI.csproj|solutionrelative:customeronboardingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240708145403_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Migrations\\20240708145403_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Migrations\\20240708145403_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Migrations\\20240708145403_InitialMigration.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Migrations\\20240708145403_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:54:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Services\\BankService.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Services\\BankService.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Services\\BankService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:43:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BanksController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Controllers\\BanksController.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Controllers\\BanksController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Controllers\\BanksController.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Controllers\\BanksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:47:37.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Program.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:32:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\Otp.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Models\\Otp.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\Otp.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Models\\Otp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:27:05.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\AppContext\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\AppContext\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\AppContext\\CustomerContext.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\AppContext\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:30:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:26:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAACQAAAAAIAAAAADYvzAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:38:35.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAD0MjMzMzMrwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:34:33.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\Models\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\Models\\CustomerDto.cs",
+              "RelativeToolTip": "CustomerOnboardingAPI\\Models\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:50:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerOnboardingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\CustomerOnboardingAPI\\CustomerOnboardingAPI\\appsettings.json",
+              "RelativeToolTip": "CustomerOnboardingAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T14:30:46.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
